@@ -1,1 +1,1 @@
-More simulation exercises on the central limit theorem, test statistics, bootsrap methods, Markov chain Monte Carlo, Indirect inference, simulated maximum likelihood, and simulated method of moments are to be added. 
+More simulation exercises on the central limit theorem, test statistics, bootsrap methods, Markov chain Monte Carlo, Indirect inference, simulated maximum likelihood, and simulated method of moments are to appear soon. 
