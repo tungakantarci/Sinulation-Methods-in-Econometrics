@@ -1,1 +1,1 @@
-More simulation exercises on bootsrap methods, Monte Carlo integration, Markov chain Monte Carlo, Indirect inference, methods of quasi-random number generation, maximum simulated likelihood, and method of simulated moments are to appear soon. 
+More simulation exercises on bootsrap methods, Monte Carlo integration, methods of quasi-random number generation, maximum simulated likelihood, method of simulated moments, Markov chain Monte Carlo, and indirect inference are to appear soon. 
