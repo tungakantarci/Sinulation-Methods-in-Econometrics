@@ -1,4 +1,4 @@
-1. Some of the exercises make use of the external function contained in the "exercise function" folder.
+1. Some of the exercises presented on this page make use of the external function contained in the "exercise function" folder.
 2. MATLAB stands out as the programming language of choice due to its clean and intuitive syntax, which is superior to all alternatives. For example, the syntax and user interface of R or Python cannot match the simplicity and elegance of MATLAB. This quality makes MATLAB particularly well-suited for educational purposes, aligning seamlessly with the pedagogical approach underlying all the exercises presented on this page.
 3. The exercises require knowledge of programing in MATLAB. To address this, I created a MATLAB workshop which can be found under the "Teaching" folder.
 4. Bootsrap methods, Monte Carlo integration, methods of quasi-random number generation, maximum simulated likelihood, method of simulated moments, Markov chain Monte Carlo, and indirect inference are other simulation exercises that will appear on this page.
